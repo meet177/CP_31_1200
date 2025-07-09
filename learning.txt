@@ -1,0 +1,3 @@
+---> see whenever wee need to check some condition on some finite number of things like maximum 3 numbers, minimum 3 numbers etc. things then just find it out and then check the conditions for all the possible cases as it will be O(1) nearly. (Three Activities)
+
+---> see whenever we are asked about remove some elements such that the given thing is not changed so try to make some conditions on based of which when we remove some elements the value does not change and then do it on array. (Contrast Value)
